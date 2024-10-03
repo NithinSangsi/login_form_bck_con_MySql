@@ -15,6 +15,6 @@ package-lock.json <br>
 <br>
 
 #OUTPUT
-https://github.com/NithinSangsi/login_form_bck_con_MySql/blob/78d3433cf3e36baec9ec0c5b77370485f1c1ceb8/Screenshot%202024-10-03%20204645.png
+![img alt]https://github.com/NithinSangsi/login_form_bck_con_MySql/blob/78d3433cf3e36baec9ec0c5b77370485f1c1ceb8/Screenshot%202024-10-03%20204645.png
 
 
